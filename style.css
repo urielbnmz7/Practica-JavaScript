@@ -54,7 +54,7 @@ button:hover {
     word-break: break-all;
 }
 
-.output .previus-operand {
+.output .previous-operand {
     color: rgba(255, 255, 255, .70);
     font-size: 1.5rem;
 }
